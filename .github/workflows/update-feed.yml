@@ -9,6 +9,7 @@ jobs:
   update:
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - name: Fetch and summarize BBC Technology RSS
         env:
           FEED_URL: https://feeds.bbci.co.uk/news/technology/rss.xml
@@ -18,8 +19,7 @@ jobs:
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
           url = os.environ['FEED_URL']
-          xml = urllib.request.urlopen(url, timeout=30).read()
-          root = ET.fromstring(xml)
+          root = ET.fromstring(urllib.request.urlopen(url, timeout=30).read())
           posts = []
           for item in root.findall('.//item')[:12]:
               def value(name):
