@@ -19,7 +19,8 @@ jobs:
           import xml.etree.ElementTree as ET
           from datetime import datetime, timezone
           url = os.environ['FEED_URL']
-          root = ET.fromstring(urllib.request.urlopen(url, timeout=30).read())
+          request = urllib.request.Request(url, headers={'User-Agent': 'Mozilla/5.0 (compatible; SignalRSSBot/1.0)'})
+          root = ET.fromstring(urllib.request.urlopen(request, timeout=30).read())
           items = [e for e in root.iter() if e.tag.lower().endswith('item')][:12]
           posts = []
           for item in items:
@@ -29,6 +30,8 @@ jobs:
               summary = re.sub(r'<[^>]+>', '', value('description'))
               summary = re.sub(r'\s+', ' ', summary).strip()[:220]
               posts.append({'title': value('title'), 'summary': summary, 'link': value('link'), 'publishedAt': value('pubDate'), 'source': 'BBC Technology'})
+          if not posts:
+              raise SystemExit('No RSS items found; previous feed preserved')
           with open('feed-posts.json', 'w', encoding='utf-8') as f:
               json.dump({'fetchedAt': datetime.now(timezone.utc).isoformat(), 'source': url, 'posts': posts}, f, ensure_ascii=False, indent=2)
           PY
