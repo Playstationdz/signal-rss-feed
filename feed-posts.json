@@ -1,5 +1,90 @@
 {
-  "fetchedAt": "2026-09-14T20:54:18.8776933Z",
+  "fetchedAt": "2026-09-14T21:14:52.605859+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
-  "posts": []
+  "posts": [
+    {
+      "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
+      "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
+      "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 17:05:31 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "What is AI, how does it work and why are some people concerned about it?",
+      "summary": "AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.",
+      "link": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 16:09:56 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Why are there concerns AI could threaten humanity, and how real are they?",
+      "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
+      "link": "https://www.bbc.co.uk/news/articles/c790xvnzgnno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Mon, 14 Sep 2026 12:00:08 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Trump downplays warnings of AI risks, citing rivalry with China",
+      "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
+      "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 18:49:37 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Questions mount over what an AI 'slowdown' would look like",
+      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
+      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 18:20:22 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
+      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
+      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sun, 13 Sep 2026 14:53:40 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
+      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
+      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 21:16:47 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
+      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
+      "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Sat, 12 Sep 2026 00:35:50 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "UK government rejects 'kill switch' idea for dangerous AI",
+      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
+      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 15:07:07 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Does this AI comic make you laugh?",
+      "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
+      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 12:49:30 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
+      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
+      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Fri, 11 Sep 2026 08:15:25 GMT",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Can Europe recharge its battery industry?",
+      "summary": "Europe has some promising battery tech, but can it make up ground lost to Chinese battery giants?",
+      "link": "https://www.bbc.co.uk/news/articles/cjeg8ly0qd3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "Thu, 10 Sep 2026 23:05:47 GMT",
+      "source": "BBC Technology"
+    }
+  ]
 }
