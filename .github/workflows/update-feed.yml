@@ -20,10 +20,11 @@ jobs:
           from datetime import datetime, timezone
           url = os.environ['FEED_URL']
           root = ET.fromstring(urllib.request.urlopen(url, timeout=30).read())
+          items = [e for e in root.iter() if e.tag.lower().endswith('item')][:12]
           posts = []
-          for item in root.findall('.//item')[:12]:
+          for item in items:
               def value(name):
-                  node = item.find(name)
+                  node = next((e for e in list(item) if e.tag.lower().endswith(name)), None)
                   return (node.text or '').strip() if node is not None else ''
               summary = re.sub(r'<[^>]+>', '', value('description'))
               summary = re.sub(r'\s+', ' ', summary).strip()[:220]
