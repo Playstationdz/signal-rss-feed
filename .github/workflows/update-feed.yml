@@ -1,0 +1,40 @@
+name: Update Signal RSS feed
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+permissions:
+  contents: write
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Fetch and summarize BBC Technology RSS
+        env:
+          FEED_URL: https://feeds.bbci.co.uk/news/technology/rss.xml
+        run: |
+          python - <<'PY'
+          import json, os, re, urllib.request
+          import xml.etree.ElementTree as ET
+          from datetime import datetime, timezone
+          url = os.environ['FEED_URL']
+          xml = urllib.request.urlopen(url, timeout=30).read()
+          root = ET.fromstring(xml)
+          posts = []
+          for item in root.findall('.//item')[:12]:
+              def value(name):
+                  node = item.find(name)
+                  return (node.text or '').strip() if node is not None else ''
+              summary = re.sub(r'<[^>]+>', '', value('description'))
+              summary = re.sub(r'\s+', ' ', summary).strip()[:220]
+              posts.append({'title': value('title'), 'summary': summary, 'link': value('link'), 'publishedAt': value('pubDate'), 'source': 'BBC Technology'})
+          with open('feed-posts.json', 'w', encoding='utf-8') as f:
+              json.dump({'fetchedAt': datetime.now(timezone.utc).isoformat(), 'source': url, 'posts': posts}, f, ensure_ascii=False, indent=2)
+          PY
+      - name: Commit updated feed
+        run: |
+          git config user.name 'signal-rss-bot'
+          git config user.email 'actions@users.noreply.github.com'
+          git add feed-posts.json
+          git diff --cached --quiet || git commit -m 'Update RSS feed'
+          git push
