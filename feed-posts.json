@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-09-15T20:09:33.431544+00:00",
+  "fetchedAt": "2026-09-15T23:30:06.620947+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "AI app ads promoting 'objectification of women' banned by watchdog",
+      "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
+      "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Nvidia boss says AI 'doesn't need new laws' as safety concerns grow",
+      "summary": "Jensen Huang's stance on AI safety contrasts with several current and former employees of AI-focused firm",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2zpj4y525o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Pubs in England and Wales to allow digital ID apps to prove age",
       "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
@@ -69,20 +83,6 @@
       "title": "UK government rejects 'kill switch' idea for dangerous AI",
       "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
       "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Does this AI comic make you laugh?",
-      "summary": "Comedian Garrett Millerick has created an AI avatar based on his own material. Is it any good?",
-      "link": "https://www.bbc.co.uk/news/videos/c5yjk63ww1ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic blocks possible attempt to use AI to make biological weapons",
-      "summary": "The revelations in Anthropic's threat intelligence report come after a former top researcher at the company warned of the risks of AI to humanity.",
-      "link": "https://www.bbc.co.uk/news/articles/cx2zrrpkx20o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
