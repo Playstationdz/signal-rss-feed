@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-16T09:50:58.249558+00:00",
+  "fetchedAt": "2026-09-16T14:50:31.507643+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
+      "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
+      "link": "https://www.bbc.co.uk/news/articles/c6n07ypqz8kzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "OpenAI boss says world 'right to be afraid' but should trust AI firms",
       "summary": "Sam Altman and other tech CEOs say there are incentives to limit advancements in AI, as fears grow over the threats it poses to humanity.",
@@ -76,13 +83,6 @@
       "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
       "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
       "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "UK government rejects 'kill switch' idea for dangerous AI",
-      "summary": "The Cabinet Office, which leads on AI safety, says the UK \"cannot simply turn AI off\".",
-      "link": "https://www.bbc.co.uk/news/articles/c3eq7kl5l00o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
