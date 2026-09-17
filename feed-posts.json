@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-09-16T22:03:41.464453+00:00",
+  "fetchedAt": "2026-09-17T00:22:48.555756+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Snapchat 'willing to implement' daily time limits for teens, boss tells BBC",
+      "summary": "Evan Speigel says it would be \"an important step forward for the industry\" in an interview with the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/cr3wjz3edd10o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Would you buy branded clothing from your favourite tech firm?",
+      "summary": "Nvidia, OpenAI and Anthropic are all now selling their own limited edition fashion lines",
+      "link": "https://www.bbc.co.uk/news/articles/cgqd9zkkvlyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Microsoft says AI rival Anthropic could have 'disastrous impact' on humanity",
       "summary": "Mustafa Suleyman says he believes the AI giant is in effect teaching Claude it \"may be conscious\".",
@@ -69,20 +83,6 @@
       "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
       "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
       "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic boss Dario Amodei calls for AI development to slow down",
-      "summary": "The call comes amid growing concerns that AI models may become able to inflict serious damage worldwide.",
-      "link": "https://www.bbc.co.uk/news/articles/c14dpgm0rg4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "PlayStation gambles with 18-rated Wolverine game - will it pay off?",
-      "summary": "The BBC's Tom Gerken plays the hotly anticipated superhero game from Spider-Man makers Insomniac.",
-      "link": "https://www.bbc.co.uk/news/articles/cy0zq2n9gggo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
