@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-17T11:31:52.889686+00:00",
+  "fetchedAt": "2026-09-17T16:51:24.087054+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
+      "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
+      "link": "https://www.bbc.co.uk/news/articles/c65ymj7njvl7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Why are there concerns AI could threaten humanity, and how real are they?",
       "summary": "Existential fears about AI have once again reared their head - here's what you need to know.",
@@ -76,13 +83,6 @@
       "title": "Questions mount over what an AI 'slowdown' would look like",
       "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
       "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "AI staff 'genuinely frightened' for humanity's future, ex-Anthropic researcher tells BBC",
-      "summary": "It comes as the AI firm's boss has called for the technology's development to be slowed down, citing \"serious\" risks.",
-      "link": "https://www.bbc.co.uk/news/articles/c1kx0gyje9wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
