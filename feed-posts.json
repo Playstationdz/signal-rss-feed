@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-17T20:11:51.763086+00:00",
+  "fetchedAt": "2026-09-17T23:30:22.632587+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "The virtual worlds where robots are trained",
+      "summary": "Training systems that allow robots to negotiate the real world are getting more sophisticated.",
+      "link": "https://www.bbc.co.uk/news/articles/c79g0j3d4q9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "King Charles warns of 'existential danger' of AI falling into wrong hands",
       "summary": "The comments were made at a summit in Ayrshire with participants from AI giants including Nvidia, OpenAI and Anthropic.",
@@ -76,13 +83,6 @@
       "title": "Trump downplays warnings of AI risks, citing rivalry with China",
       "summary": "The US president said \"negative forces\" were airing concerns about \"things that won't happen\".",
       "link": "https://www.bbc.co.uk/news/articles/c7v48vp31mdo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Questions mount over what an AI 'slowdown' would look like",
-      "summary": "While pacing AI development might sound like a quick fix, it is far from an easy solution.",
-      "link": "https://www.bbc.co.uk/news/articles/cwyzp47py48o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
