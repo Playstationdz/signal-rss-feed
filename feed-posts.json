@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-19T00:11:07.897928+00:00",
+  "fetchedAt": "2026-09-19T05:44:11.440833+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Would Australians support a smart glasses ban?",
       "summary": "As Australia considers barring the use of smart glasses in government offices, the BBC asks people in Sydney what they think.",
@@ -76,13 +83,6 @@
       "title": "Valve's Steam Frame is excellent - but at over £1,000 is VR still too expensive?",
       "summary": "The BBC's Tom Gerken is hands-on with the latest virtual reality headset.",
       "link": "https://www.bbc.co.uk/news/articles/cn8m1113ym1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "What is AI, how does it work and why are some people concerned about it?",
-      "summary": "AI is transforming modern life, but not without worry for some that it may be abused or have an adverse environmental impact.",
-      "link": "https://www.bbc.co.uk/news/articles/c2l799gxjjpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
