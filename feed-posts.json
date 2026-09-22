@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-22T14:41:56.422677+00:00",
+  "fetchedAt": "2026-09-22T18:46:22.985914+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Call of Duty's Activision to make next Halo game as Xbox cuts more jobs",
+      "summary": "The news comes as part of a \"reset\" announced by Xbox in July, with 3,600 planned job losses overall.",
+      "link": "https://www.bbc.co.uk/news/articles/cvj64gz74ky4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Not all AI workers think the tech could kill everyone",
       "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
@@ -76,13 +83,6 @@
       "title": "AI app ads promoting 'objectification of women' banned by watchdog",
       "summary": "The ad regulator said it had \"zero-tolerance\" for ads promoting AI tools that could sexualise or objectify women.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyrn2n4zg5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Pubs in England and Wales to allow digital ID apps to prove age",
-      "summary": "New rules introduced on Tuesday mean establishments will be able to accept digital ID apps alongside physical documents.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gl6j53w19o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
