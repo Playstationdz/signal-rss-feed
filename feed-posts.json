@@ -1,21 +1,7 @@
 {
-  "fetchedAt": "2026-09-23T23:36:23.143729+00:00",
+  "fetchedAt": "2026-09-24T04:35:24.930354+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
-    {
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI and Anthropic bosses push UN for global terms on AI",
-      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
-      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
     {
       "title": "OpenAI agent 'infiltrated' Australian government website, PM says",
       "summary": "Albanese said he expressed \"concern\" to OpenAI founder Sam Altman, after authorities were informed three months after the breach in June.",
@@ -24,9 +10,16 @@
       "source": "BBC Technology"
     },
     {
-      "title": "AI superpower ambitions take centre stage as Trump and Xi meet",
-      "summary": "The US and China are vying for AI supremacy while seeking to keep it under human control.",
-      "link": "https://www.bbc.co.uk/news/articles/c6gqdgg8w59xo?at_medium=RSS&at_campaign=rss",
+      "title": "Indians are discovering the thrill of shopping without paying",
+      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+      "summary": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+      "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -83,6 +76,13 @@
       "title": "Not all AI workers think the tech could kill everyone",
       "summary": "In text exchanges and conversations, multiple people who have worked for leading companies are sceptical of the warnings.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y7qj54klpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Google's Gemini AI hacked three companies in security test",
+      "summary": "The AI model accessed the internet and guessed credentials to three websites, a Google official told the BBC.",
+      "link": "https://www.bbc.co.uk/news/articles/c607l0k72rlvo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
