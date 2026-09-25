@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-25T07:39:22.112248+00:00",
+  "fetchedAt": "2026-09-25T13:38:09.415303+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
+      "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
+      "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "X-planes: Are they needed in the new era of drones?",
       "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
@@ -76,13 +83,6 @@
       "title": "OpenAI gives cyber defence tools to Ukraine",
       "summary": "Ukraine will get access to OpenAI's advanced GPT 5.6 Sol model under the deal - a rival to Anthropic's Mythos and Fable",
       "link": "https://www.bbc.co.uk/news/articles/c90kly26d7pzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
-      "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
