@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-24T22:14:59.420678+00:00",
+  "fetchedAt": "2026-09-25T01:23:58.042230+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "X-planes: Are they needed in the new era of drones?",
+      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
+      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Why Australia chose the world's biggest political stage to reveal OpenAI hack",
       "summary": "Australia, which has strict social media restrictions and has proposed controls on algorithms and smart glasses, announced the breach at the UN.",
@@ -76,13 +83,6 @@
       "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
       "summary": "Under the draft laws, tech firms face fines if they do not give users the option to switch off algorithms.",
       "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Will a switch to light speed cut power use at data centres?",
-      "summary": "To save power and add capacity, data centres are switching from copper wires to tech using light.",
-      "link": "https://www.bbc.co.uk/news/articles/c2dwg3zexkpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
