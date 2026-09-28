@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-28T06:41:16.883727+00:00",
+  "fetchedAt": "2026-09-28T15:18:48.841411+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
+      "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
+      "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "OpenAI bots meddled with multiple US government agency sites",
       "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
@@ -13,6 +20,13 @@
       "title": "Inside iconic horror game Silent Hill's Scottish makeover",
       "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
       "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
+      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
+      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -69,20 +83,6 @@
       "title": "Are we back in big tech's 'move fast and break things' era?",
       "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
       "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "What you need to know about the OpenAI Australian government hack",
-      "summary": "The BBC’s North America technology correspondent Lily Jamali explains how the Medicare breach happened, and why it matters.",
-      "link": "https://www.bbc.co.uk/news/videos/cwe8ekyzdjvlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Indians are discovering the thrill of shopping without paying",
-      "summary": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
