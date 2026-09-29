@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-09-29T15:41:15.630128+00:00",
+  "fetchedAt": "2026-09-29T20:40:35.280789+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "OpenAI agents get rebrand - as 'dots' - while safety worries delay new model",
+      "summary": "Sam Altman spoke in San Francisco during OpenAI’s yearly event for tech developers.",
+      "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Oura pulls $15bn stock market listing days after announcement",
+      "summary": "The wearable technology company had been expected to list its shares in the US.",
+      "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
@@ -69,20 +83,6 @@
       "title": "Rogue OpenAI agent 'infiltrated' Australian government website in world first",
       "summary": "Australia criticised OpenAI for taking \"too long\" to tell them about the breach which happened in June.",
       "link": "https://www.bbc.co.uk/news/articles/c6vgy0333dppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Why did an OpenAI system hack Australia's health system - and can it be stopped in the future?",
-      "summary": "News that an automated AI agent hacked a government IT system raises big questions about regulating the tech.",
-      "link": "https://www.bbc.co.uk/news/articles/cw24jm9rryy3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "FBI investigating claim hackers have stolen details of all its agents",
-      "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
-      "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
