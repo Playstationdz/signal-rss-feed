@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-28T21:51:07.144794+00:00",
+  "fetchedAt": "2026-09-29T01:47:56.299101+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "OpenAI scraps rollout of new model over safety concerns",
+      "summary": "The AI giant's safety chief said the model 'didn't quite meet the bar' of the firm's security standards.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
       "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
@@ -76,13 +83,6 @@
       "title": "FBI investigating claim hackers have stolen details of all its agents",
       "summary": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
       "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Are we back in big tech's 'move fast and break things' era?",
-      "summary": "Despite promises to make safe AI, examples of bots behaving badly are now coming at us thick and fast.",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq8egl3wd2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
