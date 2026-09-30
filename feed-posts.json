@@ -1,11 +1,18 @@
 {
-  "fetchedAt": "2026-09-30T00:19:09.879408+00:00",
+  "fetchedAt": "2026-09-30T06:36:23.051238+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
       "title": "OpenAI unveils AI assistant 'dots' while safety worries delay new model",
       "summary": "Sam Altman spoke in San Francisco during OpenAI’s annual event for tech developers.",
       "link": "https://www.bbc.co.uk/news/articles/cw7v42rp083eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Three takeaways from Trump's 'Super Intelligence' summit",
+      "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -76,13 +83,6 @@
       "title": "US backs Elon Musk's bid to overturn €120m EU fine against X",
       "summary": "The EU had said X \"deceives users\" by selling blue ticks without \"meaningfully verifying\" accounts.",
       "link": "https://www.bbc.co.uk/news/articles/cq0m373ee0v0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "X-planes: Are they needed in the new era of drones?",
-      "summary": "Where do America's X-plane projects fit in an era of cheap drones?",
-      "link": "https://www.bbc.co.uk/news/articles/c9q92x359xdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
