@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-09-30T19:07:20.008246+00:00",
+  "fetchedAt": "2026-09-30T23:40:52.035234+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Tiny image sparks big backlash in Nikon photo contest",
+      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "The AI telling farmers when to harvest",
+      "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+      "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Regulating AI 'not the right place to start' says Bailey",
       "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
@@ -69,20 +83,6 @@
       "title": "OpenAI bots meddled with multiple US government agency sites",
       "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
       "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Inside iconic horror game Silent Hill's Scottish makeover",
-      "summary": "One of gaming's biggest horror franchises has come to the UK. Can it live up to the original?",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyzjpy2eno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Inside the FBI hack: Agents fearful and angry after 'dangerous' data breach",
-      "summary": "Current and former agents speak to the BBC about the devastating impact of the FBI hack.",
-      "link": "https://www.bbc.co.uk/news/articles/cm4gjjlgzdjgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
