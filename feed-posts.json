@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-01T05:39:22.063778+00:00",
+  "fetchedAt": "2026-10-01T13:01:34.429219+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
+      "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
+      "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "AI boom could trigger market shocks, Bank of England boss warns",
       "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
@@ -76,13 +83,6 @@
       "title": "OpenAI scraps rollout of new model over safety concerns",
       "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
       "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
-      "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
-      "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
