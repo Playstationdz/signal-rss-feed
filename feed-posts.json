@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-09-30T23:40:52.035234+00:00",
+  "fetchedAt": "2026-10-01T05:39:22.063778+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "AI boom could trigger market shocks, Bank of England boss warns",
+      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
+      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Tiny image sparks big backlash in Nikon photo contest",
       "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
@@ -76,13 +83,6 @@
       "title": "Apple ordered to pay $5.7bn after losing vibration tech patent suit",
       "summary": "Audio firm Taction Technology claimed Apple infringed its patents for tech used to power device vibrations.",
       "link": "https://www.bbc.co.uk/news/articles/c6je85n2vyleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI bots meddled with multiple US government agency sites",
-      "summary": "OpenAI said its bots accessed public data from a range of institutions during test exercises.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62jje658dlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
