@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-01T23:05:14.409125+00:00",
+  "fetchedAt": "2026-10-02T02:09:52.677891+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "OpenAI fires three workers over mishandling 'sensitive information'",
+      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
+      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
+      "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
+      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
@@ -69,20 +83,6 @@
       "title": "The start-ups hoping to return battery making to the US",
       "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
       "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Oura pulls $15bn stock market listing days after announcement",
-      "summary": "The wearable technology company had been expected to list its shares in the US.",
-      "link": "https://www.bbc.co.uk/news/articles/cjwyz5v190qwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI scraps rollout of new model over safety concerns",
-      "summary": "The firm also issued an update on incidents in which its models accessed Australian government systems.",
-      "link": "https://www.bbc.co.uk/news/articles/cm5y5nynl75ko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
