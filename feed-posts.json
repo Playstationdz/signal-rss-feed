@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-05T00:46:55.460310+00:00",
+  "fetchedAt": "2026-10-05T06:53:05.584181+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Trump unveils 'Super Intelligence Force' to oversee AI policy",
+      "summary": "The president named his national intelligence chief as the taskforce's head as worries over AI grow.",
+      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "OpenAI fires workers for 'mishandling sensitive information'",
       "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
@@ -76,13 +83,6 @@
       "title": "Chinese AI tool told researchers how to make bioweapons",
       "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
       "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The start-ups hoping to return battery making to the US",
-      "summary": "Batteries based on sodium-ion technology could be made in the US with locally sourced materials.",
-      "link": "https://www.bbc.co.uk/news/articles/cvgyexx4g8ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
