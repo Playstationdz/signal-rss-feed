@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-05T15:53:22.572818+00:00",
+  "fetchedAt": "2026-10-05T22:32:29.256313+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
+      "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
+      "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Trump chooses top spy boss to run new AI taskforce",
       "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
@@ -76,13 +83,6 @@
       "title": "Three takeaways from Trump's 'Super Intelligence' summit",
       "summary": "The meeting at the White House came as some tech bosses and experts have called for tighter rules around AI.",
       "link": "https://www.bbc.co.uk/news/articles/cme30dz5vkzko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Chinese AI tool told researchers how to make bioweapons",
-      "summary": "Mindgard said it discovered in July that Kimi models K2.6 and K3 Swarm could evade developer's safety limits.",
-      "link": "https://www.bbc.co.uk/news/articles/cmrergq3j7lgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
