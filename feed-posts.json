@@ -1,9 +1,16 @@
 {
-  "fetchedAt": "2026-10-06T10:05:55.945404+00:00",
+  "fetchedAt": "2026-10-06T16:44:16.745871+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "ASOS app users receive notifications from hackers in apparent breach",
+      "title": "Italian PM files to trademark her voice against AI threats",
+      "summary": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
+      "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "ASOS app users receive push notifications apparently sent by hackers",
       "summary": "Dozens of people appear to have received a strange message from the clothing and beauty store's app.",
       "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
@@ -76,13 +83,6 @@
       "title": "The AI telling farmers when to harvest",
       "summary": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
       "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Regulating AI 'not the right place to start' says Bailey",
-      "summary": "AI needs \"rigorous\" testing and safeguards to contain risk, Andrew Bailey says.",
-      "link": "https://www.bbc.co.uk/news/articles/cvzez7k0pn40o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
