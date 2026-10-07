@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-07T01:26:06.278731+00:00",
+  "fetchedAt": "2026-10-07T08:32:50.822373+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Rainmakers: The drones used to seed clouds",
+      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
+      "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
       "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
@@ -76,13 +83,6 @@
       "title": "Trump's AI rebrand causes 'unprecedented' demand for Slovenian website names",
       "summary": "The president wants AI to be called super intelligence - or SI - the same initials used by Slovenian domains.",
       "link": "https://www.bbc.co.uk/news/articles/cqx2z23xj555o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "AI boom could trigger market shocks, Bank of England boss warns",
-      "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
-      "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
