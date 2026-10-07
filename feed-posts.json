@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-06T21:34:55.527153+00:00",
+  "fetchedAt": "2026-10-07T01:26:06.278731+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
+      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
+      "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
       "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
@@ -76,13 +83,6 @@
       "title": "AI boom could trigger market shocks, Bank of England boss warns",
       "summary": "Andrew Bailey says the central bank is watching the waves of cash being invested in artificial intelligence \"very carefully\".",
       "link": "https://www.bbc.co.uk/news/articles/cv8e30enrkxyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Tiny image sparks big backlash in Nikon photo contest",
-      "summary": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
-      "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
