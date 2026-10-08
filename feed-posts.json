@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-07T21:55:43.032311+00:00",
+  "fetchedAt": "2026-10-08T01:48:39.503595+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "AI chip boom pushes Samsung profits to record $80bn",
+      "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
+      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
+      "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
+      "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
       "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
@@ -69,20 +83,6 @@
       "title": "Trump chooses top spy boss to run new AI taskforce",
       "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
       "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI fires workers for 'mishandling sensitive information'",
-      "summary": "The former employees were investigated for sharing data with an outside AI evaluation group.",
-      "link": "https://www.bbc.co.uk/news/articles/c6y9z9r4ejzwo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Crypto thieves attack man in home and threaten to kill pregnant wife's baby in 'horrific' robbery",
-      "summary": "The man was beaten with hammers until he transferred hundreds of thousands of pounds of cryptocurrency.",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq84eygz0qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
