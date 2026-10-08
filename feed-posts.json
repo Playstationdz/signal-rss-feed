@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-08T08:49:28.573396+00:00",
+  "fetchedAt": "2026-10-08T16:22:54.734001+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Asos hackers took more personal details than first revealed, BBC finds",
+      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
+      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "AI chip boom pushes Samsung profits to record $80bn",
       "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
@@ -76,13 +83,6 @@
       "title": "Pentagon stops using Anthropic AI tools after blacklisting company, BBC told",
       "summary": "It labelled Anthropic a \"supply chain risk\" in February after the firm refused to remove safety guardrails from its tools.",
       "link": "https://www.bbc.co.uk/news/articles/c5j9x9pr0240o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Trump chooses top spy boss to run new AI taskforce",
-      "summary": "The US president said his national intelligence chief will lead the group as worries over AI grow.",
-      "link": "https://www.bbc.co.uk/news/articles/cqj6jenp26zyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
