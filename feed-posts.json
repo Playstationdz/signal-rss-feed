@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-08T21:59:33.998005+00:00",
+  "fetchedAt": "2026-10-09T02:00:55.932908+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Why are more roofs not made of solar tiles?",
+      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
+      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "White House blocks Microsoft from foreign worker hiring program",
       "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
@@ -76,13 +83,6 @@
       "title": "Ofcom investigates Meta over Instagram Instants feature",
       "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
       "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Lego fraudster among last year's most high-profile insurance scammers",
-      "summary": "The person was sentenced to 28 months in prison after an investigation found the claims were made up, the insurance trade body, the ABI said.",
-      "link": "https://www.bbc.co.uk/news/articles/cm86z9npj5deo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
