@@ -1,7 +1,28 @@
 {
-  "fetchedAt": "2026-10-09T08:53:08.070429+00:00",
+  "fetchedAt": "2026-10-09T16:06:04.929294+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
+      "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
+      "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Anthropic bans users from being 'cruel' to its AI systems",
+      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
+      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
+      "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
+      "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
       "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
@@ -62,27 +83,6 @@
       "title": "Rainmakers: The drones used to seed clouds",
       "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
       "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Braid-creator Jonathan Blow on making the 'biggest puzzle game ever'",
-      "summary": "Order of the Sinking Star is due out on Thursday and has roughly 1,500 puzzles for players to try",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqxldglepo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Asos confirms hackers sent 'unauthorised' notification to app users",
-      "summary": "Asos confirmed an \"unauthorised customer notification\" was sent out via its app on Tuesday, after users raised alarm.",
-      "link": "https://www.bbc.co.uk/news/articles/cj62ylzpr6d3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Finland orders halt to work on two Google data centres",
-      "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
-      "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
