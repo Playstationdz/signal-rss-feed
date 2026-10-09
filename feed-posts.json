@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-09T02:00:55.932908+00:00",
+  "fetchedAt": "2026-10-09T08:53:08.070429+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
+      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
+      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "'Careless use of AI is the real threat - not the ghost stories'",
+      "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
+      "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Why are more roofs not made of solar tiles?",
       "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
@@ -10,8 +24,8 @@
       "source": "BBC Technology"
     },
     {
-      "title": "White House blocks Microsoft from foreign worker hiring program",
-      "summary": "An international visa program has for years allowed US tech companies to hire highly skilled workers from abroad.",
+      "title": "White House blocks Microsoft from foreign worker hiring programme",
+      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
@@ -69,20 +83,6 @@
       "title": "Finland orders halt to work on two Google data centres",
       "summary": "The order affecting two planned data centres follows concerns over forest clearance.",
       "link": "https://www.bbc.co.uk/news/articles/cvj6jkx6g1r0o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Italian PM files to trademark her voice against AI threats",
-      "summary": "Giorgia Meloni submitted a four-second audio to a EU agency in a bid to protect her voice from deepfakes.",
-      "link": "https://www.bbc.co.uk/news/articles/ckly0g1ljq2yo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Ofcom investigates Meta over Instagram Instants feature",
-      "summary": "The regulator said Instagram had not fully assessed risks posed by its Instants feature prior to launching it.",
-      "link": "https://www.bbc.co.uk/news/articles/cq8jzyey8e2ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
