@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-10T06:57:13.492424+00:00",
+  "fetchedAt": "2026-10-10T13:33:12.090047+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Rogue Anthropic AI agent gave police fake tip in unsolved murder case",
+      "summary": "Philadelphia police said the tip was \"flagged as spam\", but criticised the tech company for taking more than two months to detect and report the breach.",
+      "link": "https://www.bbc.co.uk/news/articles/cqkg50j1yd5lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "How drones are hunting fires hidden beneath the Cairngorms",
+      "summary": "Dramatic flames from the huge Cairngorms wildfire in July have disappeared - but hot spots can continue to burn beneath the earth.",
+      "link": "https://www.bbc.co.uk/news/articles/cwm24n9v8rdeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
       "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
@@ -69,20 +83,6 @@
       "title": "Fuel prices added to Google Maps as petrol and diesel costs soar",
       "summary": "A search for forecourts will now display their pricing, using the government's Fuel Finder scheme.",
       "link": "https://www.bbc.co.uk/news/articles/ckx2d4ddjn2eo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI says teen ChatGPT use limited but research finds it an 'unacceptable risk'",
-      "summary": "The research found that important guardrails for teens using ChatGPT often failed.",
-      "link": "https://www.bbc.co.uk/news/articles/cwz0vrmxkvy4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Rainmakers: The drones used to seed clouds",
-      "summary": "Cloud seeding is gaining attention as countries look to boost rainfall - will drones help?",
-      "link": "https://www.bbc.co.uk/news/articles/c64g71j4lgyjo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
