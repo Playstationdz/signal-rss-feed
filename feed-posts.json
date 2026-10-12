@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-11T20:10:33.226553+00:00",
+  "fetchedAt": "2026-10-12T00:26:51.772321+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "AI is less regulated than milk, says Microsoft president",
+      "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "King warns malicious online actors are evolving tactics",
       "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
@@ -76,13 +83,6 @@
       "title": "Asos hackers took more personal details than first revealed, BBC finds",
       "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
       "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "AI chip boom pushes Samsung profits to record $80bn",
-      "summary": "The tech giant is also expected to get a boost from its latest folding devices that were launched in August.",
-      "link": "https://www.bbc.co.uk/news/articles/c687z8127302o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
