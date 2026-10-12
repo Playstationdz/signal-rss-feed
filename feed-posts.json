@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-12T07:15:50.142020+00:00",
+  "fetchedAt": "2026-10-12T17:45:32.928319+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
+      "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
+      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "AI is less regulated than milk, says Microsoft president",
       "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
@@ -76,13 +83,6 @@
       "title": "White House blocks Microsoft from foreign worker hiring programme",
       "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
       "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Asos hackers took more personal details than first revealed, BBC finds",
-      "summary": "Retailer issues update after BBC contacted by cyber criminals who said this week's breach went beyond \"basic contact details\"",
-      "link": "https://www.bbc.co.uk/news/articles/c3zxjdw5ywgpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
