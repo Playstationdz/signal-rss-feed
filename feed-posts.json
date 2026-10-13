@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-13T00:32:27.277817+00:00",
+  "fetchedAt": "2026-10-13T07:38:05.924107+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
+      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "AI minister warns 'likely' UK's cyber defences will be breached",
       "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
@@ -76,13 +83,6 @@
       "title": "Why are more roofs not made of solar tiles?",
       "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
       "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "White House blocks Microsoft from foreign worker hiring programme",
-      "summary": "An international visa programme has for years allowed US tech companies to hire highly skilled workers from abroad.",
-      "link": "https://www.bbc.co.uk/news/articles/ck5yngl2y4gpo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
