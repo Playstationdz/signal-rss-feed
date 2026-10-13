@@ -1,11 +1,18 @@
 {
-  "fetchedAt": "2026-10-13T07:38:05.924107+00:00",
+  "fetchedAt": "2026-10-13T15:53:10.010336+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "Bumble shares soar after report dating firm in $1bn takeover talks",
-      "summary": "The jump pushed Bumble's stock market valuation to more than $580m but that is still far below their peak of more than $14bn.",
+      "title": "Dating app Bumble bought for $1.3bn",
+      "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
+      "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
+      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -76,13 +83,6 @@
       "title": "'Careless use of AI is the real threat - not the ghost stories'",
       "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
       "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Why are more roofs not made of solar tiles?",
-      "summary": "Solar tiles were touted as an attractive alternative to solar panels - why have they not taken off?",
-      "link": "https://www.bbc.co.uk/news/articles/cdr7n610rmzo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
