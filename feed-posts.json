@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-13T21:10:40.013006+00:00",
+  "fetchedAt": "2026-10-14T01:07:46.457694+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "How long will humans be needed for translation?",
+      "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
+      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Is it OK for jobseekers or employers to use AI?",
+      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
+      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
       "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
@@ -69,20 +83,6 @@
       "title": "Fired OpenAI researchers say they were let go for 'prioritising safety'",
       "summary": "The AI firm instead claims the researchers were fired for mishandling sensitive information.",
       "link": "https://www.bbc.co.uk/news/articles/cvlydn8d3lkjo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Nvidia-backed data centre firm scraps IPO as AI valuation concerns deepen",
-      "summary": "Firmus said it had made the decision due to \"recent market volatility and prevailing market conditions\".",
-      "link": "https://www.bbc.co.uk/news/articles/ck9dzpw4ll8po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "'Careless use of AI is the real threat - not the ghost stories'",
-      "summary": "Meredith Whittaker says the tech has been misunderstood, in an exclusive interview with BBC Global Women.",
-      "link": "https://www.bbc.co.uk/news/articles/cjzxz9yp1kq9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
