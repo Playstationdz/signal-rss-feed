@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-14T22:12:56.381304+00:00",
+  "fetchedAt": "2026-10-15T01:23:34.602689+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Anthropic revenue surges to $16.8bn ahead of stock market listing",
+      "summary": "It comes as the AI giant is expected to make a blockbuster stock market debut by the end of the year.",
+      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
@@ -76,13 +83,6 @@
       "title": "Prize-winning image which sparked backlash was AI-generated, Nikon rules",
       "summary": "The camera-maker says it is now re-evaluating the rules and procedures of its Small World in Motion contest.",
       "link": "https://www.bbc.co.uk/news/articles/cr86z33pdy9vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic bans users from being 'cruel' to its AI systems",
-      "summary": "The firm said users can no longer engage in \"sustained and needless\" abusive behaviour towards the tech.",
-      "link": "https://www.bbc.co.uk/news/articles/c6j9k1l72wkgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
