@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-16T17:19:53.545449+00:00",
+  "fetchedAt": "2026-10-16T20:57:12.267944+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
+      "summary": "Australia has proposed a switch to force social media platforms to let users turn off recommended content.",
+      "link": "https://www.bbc.co.uk/news/articles/cwr7y8er1n8vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Russian man linked to deadly London hospitals hack arrested",
       "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
@@ -76,13 +83,6 @@
       "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
       "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
       "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "AI minister warns 'likely' UK's cyber defences will be breached",
-      "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
-      "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
