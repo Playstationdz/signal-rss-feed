@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-16T12:17:26.001934+00:00",
+  "fetchedAt": "2026-10-16T17:19:53.545449+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Russian man linked to deadly London hospitals hack arrested",
+      "summary": "The 28-year-old detained by German police is accused of being part of the cyber-crime gang that hacked blood-test firm Synnovis in 2024.",
+      "link": "https://www.bbc.co.uk/news/articles/c9vgr61kml3mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Snapchat and Instagram grooming becoming 'easier'",
       "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
@@ -76,13 +83,6 @@
       "title": "AI minister warns 'likely' UK's cyber defences will be breached",
       "summary": "Kanishka Narayan said the government will use advanced AI to strengthen the UK against cyber attacks.",
       "link": "https://www.bbc.co.uk/news/articles/cr78pe09y05xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "AI is less regulated than milk, says Microsoft president",
-      "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
