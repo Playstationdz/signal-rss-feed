@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-16T07:02:31.318296+00:00",
+  "fetchedAt": "2026-10-16T12:17:26.001934+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Snapchat and Instagram grooming becoming 'easier'",
+      "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
+      "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Porn showing choking or incest to be banned from early November, government says",
       "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
@@ -76,13 +83,6 @@
       "title": "AI is less regulated than milk, says Microsoft president",
       "summary": "Brad Smith calls for global rules on AI, and says the UK is in the \"best position\" to lead the charge.",
       "link": "https://www.bbc.co.uk/news/articles/c6rmy7zmvx3lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "King warns malicious online actors are evolving tactics",
-      "summary": "The King spoke of \"threats to our international order\" in a letter marking the 10th anniversary of the National Cyber Security Centre.",
-      "link": "https://www.bbc.co.uk/news/articles/cme3xl7d18z2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
