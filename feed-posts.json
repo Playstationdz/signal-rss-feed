@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-17T19:14:35.595643+00:00",
+  "fetchedAt": "2026-10-17T22:12:11.835201+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "No further action against government adviser's wife over Palestine Action post, police say",
+      "summary": "Sarah Helm, who is married to Jonathan Powell, was responding to a discussion about the author Sally Rooney.",
+      "link": "https://www.bbc.co.uk/news/articles/cv8ez40yz950o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Toxic algorithms wouldn't let them go - now Australia wants an off switch",
       "summary": "The Australian government hopes to protect social media users from being served content they don't want to see.",
@@ -76,13 +83,6 @@
       "title": "Bumble bought for $1.3bn in 'bet on the future of humanity'",
       "summary": "The dating app which recently ditched its \"women-first\" chat rule has been bought by an investment firm.",
       "link": "https://www.bbc.co.uk/news/articles/cm9qzwjgnjxlo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Phase Eight and Hobbs owner hit by cyber-attack, as H&M probes separate hack claim",
-      "summary": "TFG London has apologised to customers for disruption after it identified a \"cybersecurity incident\" on Sunday.",
-      "link": "https://www.bbc.co.uk/news/articles/cwly38gjkejko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
