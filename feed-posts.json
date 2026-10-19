@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-19T13:00:34.711540+00:00",
+  "fetchedAt": "2026-10-19T19:14:51.912726+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
+      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting device had Saudi support says court filing",
+      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Uber wins bid to throw out £200m black cab claims",
       "summary": "Claims that Uber misled TfL over its licence were thrown out because they were brought too late.",
@@ -69,20 +83,6 @@
       "title": "Living with a stink? Technology might help",
       "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
       "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "GTA 6 - all you need to know about Rockstar's blockbuster game",
-      "summary": "A new launch trailer for Grand Theft Auto VI reveals more details about what's set to be the biggest game of the year.",
-      "link": "https://www.bbc.co.uk/news/articles/c9q20djz4wno?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "AI giant Anthropic woos potential investors ahead of stock market debut",
-      "summary": "It comes as some investors have become concerned about the amount of money being spent on AI infrastructure.",
-      "link": "https://www.bbc.co.uk/news/articles/cqzjx448vxkgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
