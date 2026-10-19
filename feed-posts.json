@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-19T01:05:49.949500+00:00",
+  "fetchedAt": "2026-10-19T06:06:32.367301+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "China's growth accelerates as AI export boom outweighs domestic weakness",
+      "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
+      "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Anthropic says it will commit 5% of its shares to 'public benefit fund'",
+      "summary": "The announcement comes as Anthropic lays the ground for a blockbuster stock market listing.",
+      "link": "https://www.bbc.co.uk/news/articles/cm2kez327gdko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Don't fall for this - how to protect yourself from AI scams",
       "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
@@ -69,20 +83,6 @@
       "title": "Toilet paper and secret recorders: What we know about the arrest of the Saudi OpenAI engineer",
       "summary": "Abdulrahman Alfozan had worked for the AI giant for more than a year before he was arrested by the FBI.",
       "link": "https://www.bbc.co.uk/news/articles/cm04054ykqqqo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "'I applied for 200 jobs' - How 'spray and pray' AI job applications can backfire",
-      "summary": "Graduates are increasingly using AI to misrepresent themselves in job applications, research suggests. But some say their peer group has no choice.",
-      "link": "https://www.bbc.co.uk/news/articles/c623dnkn8pkyo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "How long will humans be needed for translation?",
-      "summary": "AI dominates the translation business, but for high-stakes work, humans are still needed.",
-      "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
