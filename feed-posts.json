@@ -1,17 +1,24 @@
 {
-  "fetchedAt": "2026-10-20T04:38:36.333587+00:00",
+  "fetchedAt": "2026-10-20T09:57:37.312260+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "Ex-OpenAI worker accused of planting device had Saudi support, says court filing",
-      "summary": "The Saudi government did not immediately respond to BBC requests for comment.",
+      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
+      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Ex-OpenAI worker accused of planting bug had Saudi support, claims prosecutors",
+      "summary": "Abdulrahman Alfozan, who is accused of planting a recording device, has been denied bail.",
       "link": "https://www.bbc.co.uk/news/articles/c6gel2dlyxvyo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
     {
-      "title": "US bans DeepSeek AI from government use as tech tension with China continues",
-      "summary": "DeepSeek is a powerful, popular and relatively inexpensive artificial intelligence model out of China.",
+      "title": "US bans China's DeepSeek from government in race for AI dominance",
+      "summary": "The Chinese technology is removed from most US government agencies as race for AI dominance steps up.",
       "link": "https://www.bbc.co.uk/news/articles/cjkgeq0k1wevo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
@@ -76,13 +83,6 @@
       "title": "Porn showing choking or incest to be banned from early November, government says",
       "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
       "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Living with a stink? Technology might help",
-      "summary": "Smells from rubbish dumps and industrial facilities are being more carefully monitored.",
-      "link": "https://www.bbc.co.uk/news/articles/cr6240q1w136o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
