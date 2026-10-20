@@ -1,10 +1,17 @@
 {
-  "fetchedAt": "2026-10-20T09:57:37.312260+00:00",
+  "fetchedAt": "2026-10-20T14:57:09.854644+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "Revolut outage hits 'multiple services' as thousands of users report app issues",
-      "summary": "Some users of the British neobank reported being unable to make some payments or access funds in its app on Tuesday.",
+      "title": "UK asks Apple to widen access to its payment tech",
+      "summary": "Proposed changes could lead to new digital wallets and keys as well as ticketing apps, the regulator says.",
+      "link": "https://www.bbc.co.uk/news/articles/cqm26zzl0k12o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Google Cloud says 'power event' behind outage hitting UK banks and websites",
+      "summary": "It has since been linked to a number of services, most notably British neobank Revolut, going down for customers or suffering problems on Tuesday morning.",
       "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
@@ -76,13 +83,6 @@
       "title": "Snapchat and Instagram grooming becoming 'easier'",
       "summary": "Online grooming is rising, with children as young as five targeted, prompting calls for reform.",
       "link": "https://www.bbc.co.uk/news/articles/cq33xd6j1dv5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Porn showing choking or incest to be banned from early November, government says",
-      "summary": "The move follows a review into pornography regulation in 2025 by Conservative peer Baroness Gabby Bertin",
-      "link": "https://www.bbc.co.uk/news/articles/cmpqgepejr2ro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
