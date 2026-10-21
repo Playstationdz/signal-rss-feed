@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-21T10:01:05.909062+00:00",
+  "fetchedAt": "2026-10-21T15:04:54.083221+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Websites taken down across Europe as critical cyber-security update issued",
+      "summary": "The vulnerabilities with PHP, a programming language widely used across the internet, have been described as the most significant ever found by AI.",
+      "link": "https://www.bbc.co.uk/news/articles/cmly0lg3w5x2o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
@@ -76,13 +83,6 @@
       "title": "China's growth accelerates as AI boom helps boost exports",
       "summary": "Exports have helped offset weak spending at home, but trade tensions and AI doubts cloud its outlook.",
       "link": "https://www.bbc.co.uk/news/articles/cm5yn098xz8lo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Don't fall for this - how to protect yourself from AI scams",
-      "summary": "Trading standards officers say AI is \"super-charging\" existing scams through clones and fake websites.",
-      "link": "https://www.bbc.co.uk/news/articles/c60rl1xvjv89o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
