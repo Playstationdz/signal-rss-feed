@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-22T15:05:33.143861+00:00",
+  "fetchedAt": "2026-10-22T19:11:24.873941+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
+      "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
+      "link": "https://www.bbc.co.uk/news/articles/cky83vwnyglno?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Race to update services' computer systems after cyber-security flaw found",
+      "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
+      "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "What is PHP and why did it spark a global cyber-security scramble?",
       "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
@@ -69,20 +83,6 @@
       "title": "The tech helping crack decades-old cold cases",
       "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
       "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI CEO Sam Altman wins dismissal of sister's lawsuit",
-      "summary": "A US district judge dismissed the case after Ann Altman had refused to attend an independent medical examination.",
-      "link": "https://www.bbc.co.uk/news/articles/c94g1502el58o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Google resolves cloud outage affecting UK banks and websites",
-      "summary": "Revolut was one of the hardest hit, with banking services going down for many customers.",
-      "link": "https://www.bbc.co.uk/news/articles/cxdd8mm6qy4mo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
