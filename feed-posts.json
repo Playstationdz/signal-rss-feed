@@ -1,7 +1,21 @@
 {
-  "fetchedAt": "2026-10-23T09:56:13.212217+00:00",
+  "fetchedAt": "2026-10-23T14:55:49.133837+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "What is PHP and why did it spark a global cyber-security scramble?",
+      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
+      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
+      "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
+      "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "The Indian workers filming their work to train AI",
       "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
@@ -20,13 +34,6 @@
       "title": "Race to update services' computer systems after cyber-security flaw found",
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "What is PHP and why did it spark a global cyber-security scramble?",
-      "summary": "AI uncovered long-hidden programming flaws, triggering a rare global cyber-security response.",
-      "link": "https://www.bbc.co.uk/news/articles/c3qjnwye0ep5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -76,13 +83,6 @@
       "title": "Just Eat apologises for AI food mistakes after social media ridicule",
       "summary": "A spokesperson said it was removing inaccurate AI images and pausing the rollout of the tool.",
       "link": "https://www.bbc.co.uk/news/articles/crz981p0klvgo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
-      "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
-      "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
