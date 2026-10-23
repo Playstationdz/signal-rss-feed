@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-23T04:35:20.400011+00:00",
+  "fetchedAt": "2026-10-23T09:56:13.212217+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "The Indian workers filming their work to train AI",
+      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
+      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Zuckerberg wins Meta deal to help him foot bill for possible California billionaire tax",
       "summary": "The Meta boss had said he would exit the state over a wealth tax that has not yet come into force.",
@@ -76,13 +83,6 @@
       "title": "Elon Musk confirms he is considering merging Tesla and SpaceX",
       "summary": "Musk says special committees within both companies have been formed to look at a possible mega-merger.",
       "link": "https://www.bbc.co.uk/news/articles/cmlyl09xjke4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The tech helping crack decades-old cold cases",
-      "summary": "Investigative genetic genealogy can help hunt down criminals but raises worries over privacy.",
-      "link": "https://www.bbc.co.uk/news/articles/c370pzdkw77jo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
