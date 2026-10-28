@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-27T21:13:15.995387+00:00",
+  "fetchedAt": "2026-10-28T01:10:55.044246+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "'An annoying buzz': The search for stealthier drones",
+      "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
+      "link": "https://www.bbc.co.uk/news/articles/ck1exgejq3xvo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Apple to replace iPhone Duos affected by screen problem",
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
@@ -76,13 +83,6 @@
       "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
       "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
       "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "'500 new vulnerabilities' found in government, says AI minister",
-      "summary": "'500 new vulnerabilities' found in government, says AI minister",
-      "link": "https://www.bbc.co.uk/news/videos/c6y8lvg2p50po?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
