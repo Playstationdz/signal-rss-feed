@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-28T15:55:15.474094+00:00",
+  "fetchedAt": "2026-10-28T20:57:31.095170+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
+      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
+      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "'An annoying buzz': The search for stealthier drones",
       "summary": "As drone deliveries become more commonplace, their makers are looking for ways to make them quieter.",
@@ -76,13 +83,6 @@
       "title": "Race to update services' computer systems after cyber-security flaw found",
       "summary": "Websites were taken offline after the developers of programming language PHP said \"critical vulnerabilities\" had been discovered.",
       "link": "https://www.bbc.co.uk/news/articles/c9j34zgmkxx1o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Zoe Kleinman: PHP is the cyber equivalent of an unexploded bomb",
-      "summary": "It has been a dramatic, public and global response, but the cyber event hasn't happened yet.",
-      "link": "https://www.bbc.co.uk/news/articles/cw98z6qlyvg3o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
