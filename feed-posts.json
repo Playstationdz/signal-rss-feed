@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-10-29T00:47:26.867104+00:00",
+  "fetchedAt": "2026-10-29T06:56:51.414406+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "Microsoft posts $36.6bn profit after offering buyouts to one in four workers",
-      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
+      "title": "Ofcom outlines ways social media can verify ages of users",
+      "summary": "Ofcom says photo and digital ID, banking checks or facial age estimation can help prove someone is 16 or over.",
+      "link": "https://www.bbc.co.uk/news/articles/c6ly3027820lo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -13,6 +13,13 @@
       "title": "Details of thousands of US immigration agents leaked in major hack",
       "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Microsoft profits soar days after announcing thousands of layoffs",
+      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
+      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -76,13 +83,6 @@
       "title": "'It's been relentless' say IT workers on frontline of PHP cyber-security scramble",
       "summary": "IT and cyber experts have told the BBC about their struggles in the last 48 hours to update their systems.",
       "link": "https://www.bbc.co.uk/news/articles/cxnv025d8qpmo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The Indian workers filming their work to train AI",
-      "summary": "Indian workers are being paid to film themselves at work and the footage is used to train AI.",
-      "link": "https://www.bbc.co.uk/news/articles/ckvgyml6pdm9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
