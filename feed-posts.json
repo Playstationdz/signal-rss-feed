@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-10-30T14:00:31.301085+00:00",
+  "fetchedAt": "2026-10-30T19:11:44.964491+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
+      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
+      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Google value plunges by $500bn as its own AI search hits ad sales",
       "summary": "Google spooked investors so badly that its stock hit a six-month low, after it revealed its AI own search summaries were affecting ad revenue.",
@@ -76,13 +83,6 @@
       "title": "Apple to replace iPhone Duos affected by screen problem",
       "summary": "Photos shared online showed faults appearing on the screens of Apple's first foldable device.",
       "link": "https://www.bbc.co.uk/news/articles/c893zwlev2xpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic's blockbuster share listing - 5 surprising things we now know",
-      "summary": "Anthropic’s IPO prospectus is 355 pages and full of never before disclosed company information.",
-      "link": "https://www.bbc.co.uk/news/articles/cwn8d7g29vd9o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
