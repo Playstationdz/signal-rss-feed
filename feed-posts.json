@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-02T15:35:35.627566+00:00",
+  "fetchedAt": "2026-11-02T23:25:47.198016+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
+      "summary": "Dozens of shops across European countries have been hit by a cyber-attack affecting their fridges.",
+      "link": "https://www.bbc.co.uk/news/articles/ckpqg8lve73go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
       "summary": "The exchange froze transactions following the incident which has been linked to a North Korean group.",
@@ -76,13 +83,6 @@
       "title": "Details of thousands of US immigration agents leaked in major hack",
       "summary": "A group called the Department of Peace released information on more than 41,000 DHS staff.",
       "link": "https://www.bbc.co.uk/news/articles/cq8jzkpjr28vo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Microsoft profits soar days after announcing thousands of layoffs",
-      "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
-      "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
