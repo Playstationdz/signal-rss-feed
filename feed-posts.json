@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-01T23:29:40.695948+00:00",
+  "fetchedAt": "2026-11-02T05:49:57.406674+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Binance users withdraw $3.6bn after record crypto hack",
+      "summary": "The exchange froze transactions in the wake of the incident, which impacted $6.3bn worth of digital assets.",
+      "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
       "summary": "The amount of debt held by data centres is measured in the tens of billions of pounds.",
@@ -76,13 +83,6 @@
       "title": "Microsoft profits soar days after announcing thousands of layoffs",
       "summary": "The week, the Windows developer said it would offer buyouts to 60,000 workers as it looks to curb costs.",
       "link": "https://www.bbc.co.uk/news/articles/c6m24klyjr8no?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Elon Musk is a 'real genius', Putin says after satellite talks with SpaceX boss",
-      "summary": "The Russian President praised Musk and said they are in \"close\" contact.",
-      "link": "https://www.bbc.co.uk/news/articles/c63djl148n3eo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
