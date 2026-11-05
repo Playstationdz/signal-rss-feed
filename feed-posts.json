@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-05T12:10:18.206664+00:00",
+  "fetchedAt": "2026-11-05T20:36:04.216648+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Shares in Musk's SpaceX plunge as tech and AI stocks fall",
+      "summary": "The market has been reacting to possible tougher scrutiny of data centre construction and the AI industry following the US mid-terms",
+      "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
       "summary": "Musk spent nearly $500m in the 2026 US midterm elections, an individual election spending record.",
@@ -76,13 +83,6 @@
       "title": "Why North Korea's 'elite' hackers are the prime suspect in major Binance hack",
       "summary": "If the accusations are true, the record-making heist shows how powerful suspected North Korean hackers have become.",
       "link": "https://www.bbc.co.uk/news/articles/ck9dz3v7z7v3o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "US tech stocks see sharp falls as AI spending nears $1tn",
-      "summary": "Shares in Intel continue to fall while the tech-heavy Nasdaq opens at its lowest level in more than two months.",
-      "link": "https://www.bbc.co.uk/news/articles/cvwy72e0n72yo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
