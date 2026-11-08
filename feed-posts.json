@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-08T00:25:54.377527+00:00",
+  "fetchedAt": "2026-11-08T07:10:59.685618+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Can the Zelda remake capture the magic of the original?",
+      "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
+      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Elon Musk appears to signal the end of the road for Cybertruck",
       "summary": "Musk said it was to make room for production of its Cybercabs - autonomous taxis without a driver.",
@@ -76,13 +83,6 @@
       "title": "Apple unsure when it will get more foldable iPhones ahead of Christmas",
       "summary": "The tech giant reports strong sales but admits \"constraints\" are affecting supplies of the iPhone Duo.",
       "link": "https://www.bbc.co.uk/news/articles/c6n8dn457ypko?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "North Korea denies being behind record $6.3bn Binance hack",
-      "summary": "US government agencies and cyber analysts have blamed Pyongyang for the record-breaking heist.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
