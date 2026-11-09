@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-08T23:38:14.105202+00:00",
+  "fetchedAt": "2026-11-09T06:03:41.951122+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Jensen Huang: Silicon Valley superstar engulfed by personal scandal",
+      "summary": "Once lauded as the \"Taylor Swift of tech\", Huang is mired in scandal after an affair with a suspected Chinese spy.",
+      "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
@@ -76,13 +83,6 @@
       "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
       "summary": "An engineer was contacted through a legitimate job-hunting platform and invited to bogus job interviews with fake company representatives, Binance says.",
       "link": "https://www.bbc.co.uk/news/articles/ck5ynwz9gy67o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
-      "summary": "Supermarkets in countries including Ireland, Sweden and Belgium reported fridges being hiked in temperature on Monday.",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
