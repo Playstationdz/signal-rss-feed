@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-11T10:42:49.509645+00:00",
+  "fetchedAt": "2026-11-11T18:36:26.415062+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "New Indian mega library rocked by scandal over 'AI-generated books'",
+      "summary": "The Tamil Nadu government has ordered an internal audit of library collections across the state.",
+      "link": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "What we know so far about Jensen Huang's affair with suspected Chinese spy",
       "summary": "The billionaire tech executive finds himself mired in a personal and national security scandal.",
@@ -76,13 +83,6 @@
       "title": "Government 'looking seriously' at banning under-16s from Vinted and eBay",
       "summary": "The culture secretary confirms reports they could be in the list of platforms set to be banned next March.",
       "link": "https://www.bbc.co.uk/news/articles/cmzxjvpqrjxro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Can the Zelda remake capture the magic of the original?",
-      "summary": "Nintendo has released its remake of what is considered one of the best games ever made - the BBC's Tom Gerken gives his verdict.",
-      "link": "https://www.bbc.co.uk/news/articles/cm8xznl0n1q4o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
