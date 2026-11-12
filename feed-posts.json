@@ -1,11 +1,32 @@
 {
-  "fetchedAt": "2026-11-12T09:41:48.304525+00:00",
+  "fetchedAt": "2026-11-12T18:09:33.980143+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "What we know as pressure builds on embattled Nvidia CEO Jensen Huang",
-      "summary": "The billionaire tech executive's future is in question after reports of a second extramarital affair.",
+      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
+      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Zoe Kleinman: How AI visionary Jensen Huang was undone by his own bad decisions",
+      "summary": "Zoe Kleinman explains how the man who built Nvidia from the ground up lost everything in a matter of days.",
+      "link": "https://www.bbc.co.uk/news/articles/cq5y13819gpjo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "What we know as Nvidia CEO Jensen Huang resigns over affair allegations",
+      "summary": "The billionaire tech executive has left the company following reports of a second extramarital affair.",
       "link": "https://www.bbc.co.uk/news/articles/ckgel338xql3o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Who is Nvidia's interim CEO Colette Kress - and who could take over permanently?",
+      "summary": "Chief financial officer Colette Kress in in charge of Nvidia for now, but several others are in the frame as potential successors.",
+      "link": "https://www.bbc.co.uk/news/articles/cqgm37dv20e8o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -62,27 +83,6 @@
       "title": "Australia considers criminal penalties for rogue AI in wake of OpenAI hack",
       "summary": "AI safety regulator will also be created after a rogue OpenAI agent hacked government websites.",
       "link": "https://www.bbc.co.uk/news/articles/cmp3g37l566po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Zoe Kleinman: Nvidia CEO's affair will cause ripples across US and beyond",
-      "summary": "Jensen Huang is being investigated by his own company over an extramarital affair with a woman alleged to be a Chinese spy.",
-      "link": "https://www.bbc.co.uk/news/articles/cj3vqv3nee72o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Nvidia shares tumble over investigation into Huang's affair with alleged Chinese spy",
-      "summary": "The share price dropped wiped hundreds of billions of dollars from the value of Nvidia.",
-      "link": "https://www.bbc.co.uk/news/articles/c6zxjx01vyleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Who is the suspected Chinese spy at centre of the Nvidia investigation?",
-      "summary": "Alice Huang, a Chinese businesswoman, had a close relationship with Nvidia boss Jensen Huang, reports say.",
-      "link": "https://www.bbc.co.uk/news/videos/c80404zyr53wo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
