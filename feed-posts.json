@@ -1,25 +1,39 @@
 {
-  "fetchedAt": "2026-11-13T16:08:19.425066+00:00",
+  "fetchedAt": "2026-11-13T22:30:07.310017+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
+      "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
+      "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
+      "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
     {
-      "title": "Bessent blames Lutnick's Commerce Department for failing to block Megaspeed",
+      "title": "Microsoft 'deeply sorry' for global outage after almost 24 hours of disruption",
+      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Pressure grows on Trump's Commerce Secretary Lutnick in fallout from Nvidia scandal",
       "summary": "Scott Bessent told CNBC that several government agencies \"were in favour of putting Megaspeed on the entity list for months\".",
       "link": "https://www.bbc.co.uk/news/articles/cqvg2d1eg7zro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
     {
-      "title": "Why is the Microsoft outage lasting so long?",
-      "summary": "Microsoft says it is seeing \"improvements\" following a global outage but efforts to fully resume services are ongoing.",
+      "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
+      "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
+      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
+      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -69,20 +83,6 @@
       "title": "Global Microsoft outage affecting tens of thousands of users",
       "summary": "Microsoft said the outage was caused by servers unexpected becoming unavailable, straining other systems.",
       "link": "https://www.bbc.co.uk/news/articles/c5gm3g9ldz8xo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The rise of 'housefishing' - when does using AI go from enhancing to misleading?",
-      "summary": "Experts warn that using AI to enhance property images can go too far and mislead prospective buyers.",
-      "link": "https://www.bbc.co.uk/news/articles/cm62y0wrnz9zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The rise and fall of Jensen Huang - how the tech superstar became mired in scandal",
-      "summary": "Within days, Huang's status as a seemingly untouchable figure leading the global tech race has crumbled.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
