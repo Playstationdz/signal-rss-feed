@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-14T03:03:32.978664+00:00",
+  "fetchedAt": "2026-11-14T10:10:12.888384+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Microsoft says services fully restored after day-long global outage",
+      "summary": "Efforts to address the underlying problem with Outlook, Teams and Copilot are complete, the tech firm says.",
+      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
       "summary": "The next title in the series is expected to be the biggest video game release ever.",
@@ -20,13 +27,6 @@
       "title": "Microsoft outage 'stark reminder' of how much we rely on tech",
       "summary": "Microsoft has apologised for the issue, which it said was due to a technical failure.",
       "link": "https://www.bbc.co.uk/news/articles/cxzd9171m51qo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Microsoft 'deeply sorry' for global outage as it reports broad recovery",
-      "summary": "Experts say the event is a \"stark reminder\" of how heavily the world relies on a small group of big tech providers.",
-      "link": "https://www.bbc.co.uk/news/articles/c6rrg51rkz09o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
