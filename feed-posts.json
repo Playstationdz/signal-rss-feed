@@ -1,10 +1,24 @@
 {
-  "fetchedAt": "2026-11-16T09:27:30.785245+00:00",
+  "fetchedAt": "2026-11-16T20:17:36.769645+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "Investors sue chip giant Intel after 29% stock plunge",
-      "summary": "A proposed class action says Intel hid the impact of slowing sales, inflating its shares.",
+      "title": "Trump backs return of ex-Nvidia boss after 'Bring Jensen Back' campaign launched",
+      "summary": "A number of tech figures want the board of the AI chip giant to give Jensen Huang his job back.",
+      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Intel sued by investors after PC sales slump hits share price",
+      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
       "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
@@ -69,20 +83,6 @@
       "title": "Why is Microsoft's outage lasting so long and will emails be lost?",
       "summary": "Microsoft says it is continuing to restore services including Outlook and Teams following a global outage.",
       "link": "https://www.bbc.co.uk/news/articles/cwvg238zrnm5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Courts, spies and MPs: How the Microsoft outage has been felt around the world",
-      "summary": "From city governments in the US to spy agencies in Australia, the Microsoft outage is being felt around the world.",
-      "link": "https://www.bbc.co.uk/news/articles/cqp9d58eldlro?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "NHS, schools and police forces hit by Microsoft outage",
-      "summary": "Major airports and intelligence services are unaffected, while the government is still assessing the impact.",
-      "link": "https://www.bbc.co.uk/news/articles/c6vg2ljjpj32o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
