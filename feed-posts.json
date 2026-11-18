@@ -1,11 +1,25 @@
 {
-  "fetchedAt": "2026-11-17T22:11:18.045833+00:00",
+  "fetchedAt": "2026-11-18T04:09:28.595398+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "New Nvidia boss says 'ambition has never been greater' after Jensen Huang's exit",
-      "summary": "Nvidia's ousted CEO Jensen Huang earlier on Tuesday offered to return, despite the board's disinterest.",
+      "title": "Waymo pulls driverless taxis from all US freeways",
+      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
+      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Europe plans to catch the next computer chip wave",
+      "summary": "Europe hopes to be a leader in a new generation of computer chips which use light to process data.",
+      "link": "https://www.bbc.co.uk/news/articles/cqglwjd450k0o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -69,20 +83,6 @@
       "title": "GTA 6 hacker pleads guilty after release from secure hospital",
       "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
       "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Intel sued by investors after PC sales slump hits share price",
-      "summary": "A proposed class action claims the firm hid the impact of slowing PC sales from shareholders.",
-      "link": "https://www.bbc.co.uk/news/articles/cw62p42p288do?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Suspected China spy linked to Nvidia's ex-boss left in 2025, Megaspeed says",
-      "summary": "The Nvidia scandal has raised questions over whether advanced AI chips ended up in China, despite US restrictions.",
-      "link": "https://www.bbc.co.uk/news/articles/cmdx1vpprk9vo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
