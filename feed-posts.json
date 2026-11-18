@@ -1,7 +1,49 @@
 {
-  "fetchedAt": "2026-11-18T04:09:28.595398+00:00",
+  "fetchedAt": "2026-11-18T13:48:24.071284+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
+      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Grand Theft Auto 6 is a masterpiece, say critics",
+      "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
+      "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
+      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
+      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Security flaw found in Java, world's third-largest programming language",
+      "summary": "The same tech start-up that discovered a PHP flaw used AI to uncover a critical software bug in one of the world's most popular computer language programs.",
+      "link": "https://www.bbc.co.uk/news/articles/cke89jevqm1vo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The former Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
+      "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
+      "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Waymo pulls driverless taxis from all US freeways",
       "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
@@ -10,7 +52,7 @@
       "source": "BBC Technology"
     },
     {
-      "title": "Nvidia says it won't reinstate Huang as firm reports bumper results",
+      "title": "Nvidia says it won't reinstate Huang as it reports soaring sales",
       "summary": "The AI chip giant reported strong quarterly earnings on Tuesday after the dramatic exit of Jensen Huang.",
       "link": "https://www.bbc.co.uk/news/articles/cm2kl50vkwkdo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
@@ -41,48 +83,6 @@
       "title": "Pretending to be in New Zealand, booking leave and buying consoles - the lengths fans are going to for GTA 6",
       "summary": "Sensor Tower estimates the game has already made $1.18bn from pre-orders across PlayStation and Xbox",
       "link": "https://www.bbc.co.uk/news/articles/cm4gn9xnn1ppo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "US government confirms investigation into tech firm Megaspeed",
-      "summary": "The Singapore-based company is suspected of helping to ship high-end AI chips from tech giant Nvidia to China, violating US export rules.",
-      "link": "https://www.bbc.co.uk/news/articles/cmn504nq5033o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "'We're a capitalist society': Grindr defends $120 a month premium tier",
-      "summary": "It says the ultra-premium service is intended for a \"small community\" of users - and could get more expensive in future.",
-      "link": "https://www.bbc.co.uk/news/articles/cr1ewlqjn694o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Nvidia dismisses 'Bring Jensen Back' campaign as Trump backs effort to reinstate ex boss",
-      "summary": "A number of tech figures have backed an effort asking the AI chip giant to give Jensen Huang his job back.",
-      "link": "https://www.bbc.co.uk/news/articles/cry49plv8v3go?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The AI start-ups fixing India's broken roads and messy land records",
-      "summary": "From legal-tech to healthcare, dozens of Indian AI start-ups are solving uniquely Indian challenges.",
-      "link": "https://www.bbc.co.uk/news/articles/c820vnln2lzpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "OpenAI sued by California over Hugging Face attack",
-      "summary": "Attorney General Rob Bonta alleges that the artificial intelligence misled and endangered the public.",
-      "link": "https://www.bbc.co.uk/news/articles/c6wy4xv2mxglo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "GTA 6 hacker pleads guilty after release from secure hospital",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "link": "https://www.bbc.co.uk/news/articles/cq99exy89dngo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
