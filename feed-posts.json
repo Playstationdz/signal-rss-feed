@@ -1,11 +1,11 @@
 {
-  "fetchedAt": "2026-11-19T12:50:47.950238+00:00",
+  "fetchedAt": "2026-11-19T21:23:12.777360+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
+      "title": "Dutch watchdog tells people not to buy AI smart glasses",
+      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
+      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -13,6 +13,13 @@
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
+      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
+      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     },
@@ -76,13 +83,6 @@
       "title": "Watch: Marco Rubio says recent tech outages are 'completely unrelated' to one another",
       "summary": "Microsoft, major US banks, Apple and Air Traffic authorities have been hit over recent days by tech glitches.",
       "link": "https://www.bbc.co.uk/news/videos/cx1l0vm87yl9o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Waymo pulls driverless taxis from all US freeways",
-      "summary": "The decision comes after California banned Waymo's driverless vehicles from operating on the state's highways following a series of traffic incidents.",
-      "link": "https://www.bbc.co.uk/news/articles/cmy86pp336qlo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
