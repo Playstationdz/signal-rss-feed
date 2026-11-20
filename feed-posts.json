@@ -1,9 +1,23 @@
 {
-  "fetchedAt": "2026-11-20T02:59:56.685933+00:00",
+  "fetchedAt": "2026-11-20T11:21:37.627510+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
     {
-      "title": "GTA 6 breaks records as sales top $2bn - industry estimate",
+      "title": "White House removes cyber-security chief after series of tech outages",
+      "summary": "CBS is reporting he has been fired after losing the confidence of White House chief of staff Stephen Miller.",
+      "link": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "Should AI be judging our credit worthiness?",
+      "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
+      "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "GTA 6 breaks records as estimated sales top $2.3bn",
       "summary": "Rockstar Games ended a 13-year wait with what is expected to be the biggest entertainment launch ever.",
       "link": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
@@ -69,20 +83,6 @@
       "title": "Grand Theft Auto 6 is a masterpiece, say critics",
       "summary": "Critics have their say as to whether GTA 6, the most anticipated video game of all time, lives up to the hype.",
       "link": "https://www.bbc.co.uk/news/articles/cw8r75xm8v4po?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Hacks, AI or just overdue updates - why have there been so many outages?",
-      "summary": "There is no evidence these are linked, but the constant series of tech disruptions can be unnerving.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z0kly2lll7o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "British hacker who stole $11m through text message scheme jailed for six years in US",
-      "summary": "Tyler Buchanan, from Dundee, was a member of the notorious Scattered Spider group and began hacking when he was a teenager.",
-      "link": "https://www.bbc.co.uk/news/articles/cm87987w1qz5o?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
