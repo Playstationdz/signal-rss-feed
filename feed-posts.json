@@ -1,7 +1,35 @@
 {
-  "fetchedAt": "2026-11-23T08:54:09.303645+00:00",
+  "fetchedAt": "2026-11-23T21:13:04.266365+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Nvidia shares up nearly 33% and tech stocks rally after Jensen Huang returns",
+      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 7%.",
+      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "How important are Nvidia and Jensen Huang to the US economy?",
+      "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
+      "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "The rise and fall and rise again of Jensen Huang",
+      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
+      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
+    {
+      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
+      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
+      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
       "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
@@ -55,34 +83,6 @@
       "title": "Should AI be judging our credit worthiness?",
       "summary": "Would AI be a good judge of whether you should get a mortgage, car loan or mobile phone contract?",
       "link": "https://www.bbc.co.uk/news/articles/c6d94pzk9vleo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Tens of thousands of UK fridges secured from hackers in secret nationwide operation",
-      "summary": "Supermarkets, warehouses, restaurants and stadiums have been scrambling to make their devices safe.",
-      "link": "https://www.bbc.co.uk/news/articles/c6eq49zyx7p4o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic becomes one of world's most valuable public companies in stock market debut",
-      "summary": "Anthropic is the first purely AI company to be publicly listed, creating a test for the entire industry.",
-      "link": "https://www.bbc.co.uk/news/articles/c3x29ggenz12o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Dutch watchdog tells people not to buy AI smart glasses",
-      "summary": "Tests of glasses showed some misread medicine instructions or pretended to have called an ambulance",
-      "link": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Anthropic raises $81bn in record-breaking stock market debut",
-      "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
-      "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
