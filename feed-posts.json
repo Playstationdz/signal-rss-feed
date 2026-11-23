@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-22T18:26:54.722012+00:00",
+  "fetchedAt": "2026-11-23T00:11:37.660251+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "San Francisco is enjoying an AI boom, but worries about a crash are growing",
+      "summary": "AI employees in the industry's epicentre - San Francisco - worry that the sector is overheated.",
+      "link": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Can AI really help spot Black Friday deals? We put it to the test",
       "summary": "We put four AI models to the test to see if they could save us money on a new TV.",
@@ -76,13 +83,6 @@
       "title": "Anthropic raises $81bn in record-breaking stock market debut",
       "summary": "The company behind the Claude chatbot will become one of the most valuable firms in the world.",
       "link": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "UK joins in GTA 6 frenzy as game becomes available worldwide",
-      "summary": "The game, which was in development for 13 years, is set become one of the world's most popular entertainment products ever.",
-      "link": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
