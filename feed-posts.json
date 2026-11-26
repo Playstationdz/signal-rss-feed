@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-26T14:58:54.547068+00:00",
+  "fetchedAt": "2026-11-26T23:43:35.947851+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Asia made a big AI bet on Nvidia. What happens now?",
+      "summary": "Asian stocks have been on a rollercoaster ride after Jensen Huang's shock return as Nvidia CEO.",
+      "link": "https://www.bbc.co.uk/news/articles/cqevr4lnd1nxo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Musk's plan to send a million SpaceX data satellites into space approved",
       "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
@@ -76,13 +83,6 @@
       "title": "How important are Nvidia and Jensen Huang to the US economy?",
       "summary": "The Nvidia chief executive has been at the centre of the artificial intelligence boom.",
       "link": "https://www.bbc.co.uk/news/articles/c68798vdprwpo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "The rise and fall and rise again of Jensen Huang",
-      "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
-      "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
