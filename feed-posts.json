@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-26T04:55:29.295294+00:00",
+  "fetchedAt": "2026-11-26T14:58:54.547068+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "Musk's plan to send a million SpaceX data satellites into space approved",
+      "summary": "The Starmind constellation aims to be the most cost and energy-efficient way to meet the growing demand for AI computing power.",
+      "link": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Huawei found guilty of stealing US trade secrets but acquitted of racketeering",
       "summary": "The verdict follows a months-long trial in New York.",
@@ -76,13 +83,6 @@
       "title": "The rise and fall and rise again of Jensen Huang",
       "summary": "Days after resigning while mired in scandal of extra-marital affairs, Nvidia's Jensen Huang is making a remarkable return.",
       "link": "https://www.bbc.co.uk/news/articles/cmze750zg0jeo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "GTA 6 hacker released on licence with warning 'don't let this happen again'",
-      "summary": "21-year-old Arion Kurtaj pleaded guilty to the Rockstar Games hack and others he carried out when he was a teenager.",
-      "link": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
