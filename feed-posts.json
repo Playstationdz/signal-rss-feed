@@ -1,7 +1,14 @@
 {
-  "fetchedAt": "2026-11-27T18:50:34.775476+00:00",
+  "fetchedAt": "2026-11-28T01:52:37.010998+00:00",
   "source": "https://feeds.bbci.co.uk/news/technology/rss.xml",
   "posts": [
+    {
+      "title": "How gamers are using AI and leaked files to clone Grand Theft Auto 6",
+      "summary": "With an official PC version potentially still months away, fans are getting impatient.",
+      "link": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo?at_medium=RSS&at_campaign=rss",
+      "publishedAt": "",
+      "source": "BBC Technology"
+    },
     {
       "title": "Why is there a shortage of 'wizard' elevator mechanics?",
       "summary": "The pay is good and there's lots of work, so what's behind the shortage of elevator mechanics?",
@@ -76,13 +83,6 @@
       "title": "US to blacklist Asian AI firm Megaspeed after Nvidia scandal",
       "summary": "Megaspeed has been accused of funneling AI chips to China after a former executive's affair with Jensen Huang became public.",
       "link": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo?at_medium=RSS&at_campaign=rss",
-      "publishedAt": "",
-      "source": "BBC Technology"
-    },
-    {
-      "title": "Nvidia value climbs by almost $1tn and tech stocks rally after Jensen Huang returns",
-      "summary": "The jump in Nvidia shares has also lifted stock markets, with the tech-heavy Nasdaq up 6.5%.",
-      "link": "https://www.bbc.co.uk/news/articles/cq62pn6j42jko?at_medium=RSS&at_campaign=rss",
       "publishedAt": "",
       "source": "BBC Technology"
     }
